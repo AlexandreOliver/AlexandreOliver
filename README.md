@@ -1,6 +1,8 @@
 ## Ola! Meu nome é Alexandre Oliveira.
+> Tenho 17 anos, gosto de programação e hacking e atualmente estou fazendo um curso de desenvolvimento de Apps e Jogos.
 
-- Estudando C
+#### O que sei:
+- C (Estudando)
 - Python Básico
 
 ##
@@ -10,7 +12,10 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOliver&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+##
+<div> 
+    <a href="mailto:alexandreferreiradeoliveira40@gmail.com?subject=Ola" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
+</div>
 
 
 
