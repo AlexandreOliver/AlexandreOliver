@@ -2,7 +2,7 @@
 > Tenho 17 anos, gosto de programação e hacking e atualmente estou fazendo um curso de desenvolvimento de Apps e Jogos.
 
 #### O que sei:
-- C (Estudando)
+- C# (Estudando)
 - Python Básico
 
 ##
