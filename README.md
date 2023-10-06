@@ -1,9 +1,9 @@
 ## Ola! Meu nome é Alexandre Oliveira.
-> Tenho 17 anos, gosto de programação e hacking e atualmente estou fazendo um curso de desenvolvimento de Apps e Jogos.
+> Tenho 18 anos, gosto de programação e fiz um curso de desenvolvimento de Apps e Jogos usando C#.
 
 #### O que sei:
 - C# (Estudando)
-- Python Básico
+- Python
 
 ##
 <div align="center">
